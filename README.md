@@ -23,14 +23,12 @@ I'm Pham Huy Hoang an AI Engineer. I spend most of my time for coding.
 ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&labelColor=black)
 
 
-
-
-
 <br/>
 
 ### My stats ⭐
 
-[![bexanhtuoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bexanhtuoi)](#)
+[![bexanhtuoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bexanhtuoi)](https://github-readme-stats.vercel.app/api/top-langs/?username=bexanhtuoi)
 
 ### Profile views counter 👁️‍🗨️
 [![Pham Huy Hoang profile views](https://u8views.com/api/v1/github/profiles/167796660/views/day-week-month-total-count.svg)](https://u8views.com/github/bexanhtuoi)
