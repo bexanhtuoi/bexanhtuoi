@@ -20,7 +20,7 @@ I'm Pham Huy Hoang a AI Engineer. I spend most of my time for coding.
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bexanhtuoi&layout=compact&&langs_count=8"/>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexanhtuoi&show_icons=true&theme=radical)]
 ### Profile views counter 👁️‍🗨️
 [![Pham Huy Hoang profile views](https://u8views.com/api/v1/github/profiles/167796660/views/day-week-month-total-count.svg)](https://u8views.com/github/bexanhtuoi)
 
