@@ -9,7 +9,6 @@ I'm Pham Huy Hoang an AI Engineer. I spend most of my time for coding.
 ### Technologies
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Css-0082F0?style=for-the-badge&logo=css3&logoColor=%230082F0&labelColor=black)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
