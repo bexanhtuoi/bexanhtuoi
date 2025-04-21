@@ -9,12 +9,7 @@ I'm Pham Huy Hoang an AI Engineer. I spend most of my time for coding.
 ### Technologies
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Css-0082F0?style=for-the-badge&logo=css3&logoColor=%230082F0&labelColor=black)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black)
-![Static Badge](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=%23008080&labelColor=black)
-![Static Badge](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=black)
