@@ -4,7 +4,7 @@ I'm Pham Huy Hoang an AI Engineer. I spend most of my time for coding.
 
 :mailbox: Reach me out!
 
-[![Static Badge](https://img.shields.io/badge/Email-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black)](mailto:bexanhtuoi@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Email-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black)](mailto:phamhuyhoangforjob@gmail.com)
 
 ### Technologies
 
