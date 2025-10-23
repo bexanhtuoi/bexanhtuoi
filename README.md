@@ -1,6 +1,6 @@
 ### Hi, I'm Hoang 👋
 
-I'm Pham Huy Hoang an AI Engineer. I spend most of my time for coding.
+Hi, I'm Pham Huy Hoang, an AI & Software Engineer who loves turning ideas into smart, efficient, and reliable software solutions.
 
 :mailbox: Reach me out!
 
