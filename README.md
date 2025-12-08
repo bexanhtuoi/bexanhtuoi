@@ -24,7 +24,7 @@ Hi, I'm Pham Huy Hoang, an AI & Software Engineer who loves turning ideas into s
 
 ### My stats ⭐
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexanhtuoi)](https://github.com/anuraghazra/github-readme-stats)
+![bexanhtuoi GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bexanhtuoi)
 
 ### Profile views counter 👁️‍🗨️
 [![Pham Huy Hoang profile views](https://u8views.com/api/v1/github/profiles/167796660/views/day-week-month-total-count.svg)](https://u8views.com/github/bexanhtuoi)
