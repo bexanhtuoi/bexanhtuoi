@@ -30,4 +30,4 @@ Hi, I'm Pham Huy Hoang, an AI & Software Engineer who loves turning ideas into s
 [![Pham Huy Hoang profile views](https://u8views.com/api/v1/github/profiles/167796660/views/day-week-month-total-count.svg)](https://u8views.com/github/bexanhtuoi)
 
 ### Ramdom Meme 😎
-[Ramdom Meme](https://img.randme.me/)
+![Ramdom Meme](https://img.randme.me/)
